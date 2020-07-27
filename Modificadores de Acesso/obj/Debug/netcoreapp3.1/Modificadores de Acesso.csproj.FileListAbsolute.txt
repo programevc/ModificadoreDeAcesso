@@ -1,0 +1,16 @@
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\bin\Debug\netcoreapp3.1\Modificadores de Acesso.exe
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\bin\Debug\netcoreapp3.1\Modificadores de Acesso.deps.json
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\bin\Debug\netcoreapp3.1\Modificadores de Acesso.runtimeconfig.json
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\bin\Debug\netcoreapp3.1\Modificadores de Acesso.runtimeconfig.dev.json
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\bin\Debug\netcoreapp3.1\Modificadores de Acesso.dll
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\bin\Debug\netcoreapp3.1\Modificadores de Acesso.pdb
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\bin\Debug\netcoreapp3.1\ClasseHerdada.dll
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\bin\Debug\netcoreapp3.1\ClasseHerdada.pdb
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\obj\Debug\netcoreapp3.1\Modificadores de Acesso.csprojAssemblyReference.cache
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\obj\Debug\netcoreapp3.1\Modificadores de Acesso.AssemblyInfoInputs.cache
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\obj\Debug\netcoreapp3.1\Modificadores de Acesso.AssemblyInfo.cs
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\obj\Debug\netcoreapp3.1\Modificadores de Acesso.csproj.CoreCompileInputs.cache
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\obj\Debug\netcoreapp3.1\Modificadores de Acesso.csproj.CopyComplete
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\obj\Debug\netcoreapp3.1\Modificadores de Acesso.dll
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\obj\Debug\netcoreapp3.1\Modificadores de Acesso.pdb
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\Modificadores de Acesso\obj\Debug\netcoreapp3.1\Modificadores de Acesso.genruntimeconfig.cache

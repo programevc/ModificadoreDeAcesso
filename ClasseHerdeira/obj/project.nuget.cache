@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r6tfDEDYaBM2Ej/BIh24gr9lHnYXPfnHUcH8eMRm6H9SR3ES478nfmEqYTlREYxkIlBx92jixb2dG5A+Q08Llw==",
+  "success": true,
+  "projectFilePath": "E:\\Programe vc\\Aulas\\Codigo\\Modificadores de Acesso\\Modificadores de Acesso\\ClasseHerdeira\\ClasseHerdada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wellyngton\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wellyngton\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

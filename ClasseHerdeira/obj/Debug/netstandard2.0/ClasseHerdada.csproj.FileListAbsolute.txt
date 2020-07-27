@@ -1,0 +1,8 @@
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\ClasseHerdeira\bin\Debug\netstandard2.0\ClasseHerdada.deps.json
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\ClasseHerdeira\bin\Debug\netstandard2.0\ClasseHerdada.dll
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\ClasseHerdeira\bin\Debug\netstandard2.0\ClasseHerdada.pdb
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\ClasseHerdeira\obj\Debug\netstandard2.0\ClasseHerdada.AssemblyInfoInputs.cache
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\ClasseHerdeira\obj\Debug\netstandard2.0\ClasseHerdada.AssemblyInfo.cs
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\ClasseHerdeira\obj\Debug\netstandard2.0\ClasseHerdada.csproj.CoreCompileInputs.cache
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\ClasseHerdeira\obj\Debug\netstandard2.0\ClasseHerdada.dll
+E:\Programe vc\Aulas\Codigo\Modificadores de Acesso\Modificadores de Acesso\ClasseHerdeira\obj\Debug\netstandard2.0\ClasseHerdada.pdb

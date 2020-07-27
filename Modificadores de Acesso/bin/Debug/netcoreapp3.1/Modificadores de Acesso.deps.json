@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Modificadores de Acesso/1.0.0": {
+        "dependencies": {
+          "ClasseHerdada": "1.0.0"
+        },
+        "runtime": {
+          "Modificadores de Acesso.dll": {}
+        }
+      },
+      "ClasseHerdada/1.0.0": {
+        "runtime": {
+          "ClasseHerdada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modificadores de Acesso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClasseHerdada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
